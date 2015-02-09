@@ -1,0 +1,2 @@
+# cmp
+CMP for WordPress
